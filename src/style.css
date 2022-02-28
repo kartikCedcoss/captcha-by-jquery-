@@ -1,0 +1,28 @@
+html{
+    background: rgb(136, 163, 219);
+}
+.maindiv{
+    margin:5em 25em;
+}
+h2{
+    color:white;
+    font-weight: 800;
+    font-size: 30px;
+}
+#newcaptcha{
+   font-size: 25px;
+   font: 900;
+   font: italic;
+     
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: rgb(161, 42, 42);
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+}
+#entercaptcha{
+    padding : 1em 6em ;
+    border-width: 3px;
+    border-color: turquoise;
+
+}
